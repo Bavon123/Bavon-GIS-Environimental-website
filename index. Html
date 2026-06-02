@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bavoon GIS and Environmental Conservation</title>
+
+<style>
+body{
+    font-family: Arial, sans-serif;
+    margin:0;
+    padding:0;
+    background:#f4f4f4;
+}
+
+header{
+    background:#2e8b57;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+nav{
+    background:#333;
+    padding:10px;
+    text-align:center;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:15px;
+}
+
+section{
+    padding:20px;
+    margin:20px;
+    background:white;
+    border-radius:10px;
+}
+
+footer{
+    background:#2e8b57;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <h1>Bavoon GIS and Environmental Conservation</h1>
+    <p>Using GIS Technology to Protect and Manage the Environment</p>
+</header>
+
+<nav>
+    <a href="#home">Home</a>
+    <a href="#about">About GIS</a>
+    <a href="#applications">Applications</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="home">
+    <h2>Welcome</h2>
+    <p>
+        Geographic Information System (GIS) is a powerful technology used
+        to collect, store, analyze and display geographical data.
+        GIS plays an important role in environmental conservation and
+        sustainable development.
+    </p>
+</section>
+
+<section id="about">
+    <h2>About GIS</h2>
+    <p>
+        GIS combines maps, satellite images, databases and analytical tools
+        to understand spatial information. It helps researchers,
+        planners and environmental managers make better decisions.
+    </p>
+</section>
+
+<section id="applications">
+    <h2>Applications of GIS in Environmental Conservation</h2>
+
+    <ul>
+        <li>Monitoring deforestation and forest resources.</li>
+        <li>Mapping flood-prone areas.</li>
+        <li>Wildlife habitat management.</li>
+        <li>Water resource management.</li>
+        <li>Land use planning.</li>
+        <li>Climate change analysis.</li>
+        <li>Environmental impact assessment.</li>
+    </ul>
+
+    <h3>Benefits of GIS</h3>
+    <ul>
+        <li>Improves decision making.</li>
+        <li>Provides accurate spatial information.</li>
+        <li>Saves time and resources.</li>
+        <li>Supports sustainable environmental management.</li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Name: Bavoon</p>
+    <p>Email: youremail@example.com</p>
+    <p>Field of Study: GIS and Remote Sensing</p>
+</section>
+
+<footer>
+    <p>&copy; 2026 Bavoon GIS and Environmental Conservation. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
